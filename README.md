@@ -105,7 +105,7 @@ I specialize in **PHP (Laravel)**, **React.js**, and **Node.js** ecosystems with
 
 | Company | Role | Duration | Tech Stack |
 |---------|------|----------|------------|
-| My Last Company: Tietoevry (Contract Hire (KasmoGlobal as payroll company) | Senior Full Stack Developer | 2022 - 2025 | PHP, Laravel, React, Node.js, PostgreSQL, AWS |
+| My Last Company: Tietoevry (Contract Hire (KasmoGlobal as payroll company) | Senior Full Stack Developer | May 2025 - Oct 2025 | PHP, Laravel, React, Node.js, PostgreSQL, AWS |
 | Sakhatech Inforamtion PVT LTD | Full Stack Developer | 2022 - 2024 | Laravel, React, MySQL, jQuery, Bootstrap |
 | SMTGROUP, Indore | PHP Developer | 2017 - 2021 | PHP, CodeIgniter, jQuery, AJAX, MySQL |
 
