@@ -23,9 +23,8 @@ I specialize in **PHP (Laravel)**, **React.js**, and **Node.js** ecosystems with
 - 🔭 Currently working on: Enterprise-level web applications and microservices
 - 🌱 Learning: Microservices Architecture & GraphQL
 - 💬 Ask me about: PHP, Laravel, React, Node.js, API Design, PostgreSQL
-- 📫 Reach me: [Your Email]
-- 📍 Location: [Your City, Country]
-
+- 📫 Reach me: Sudheershri007@gmail.com
+- 📍 Location: Jabalpur , Madhya-Pradesh , India
 ---
 
 ## 🛠️ Complete Tech Stack
